@@ -1,1 +1,0 @@
-# ALg_Prog_Problems_PR15_Matplotlib_Advance_p1
